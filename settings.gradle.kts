@@ -1,0 +1,1 @@
+rootProject.name = "pl.bemideas.basic-crud-api-kotlin"
